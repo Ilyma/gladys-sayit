@@ -1,0 +1,15 @@
+{
+  "name": "sayit",
+  "version": "0.1.1",
+  "description": "Gladys say all sentense more like humans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "translate",
+    "humanisation"
+  ],
+  "author": "Raphael Mora"
+}

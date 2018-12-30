@@ -1,0 +1,32 @@
+{
+	"0":[{
+		"say-hello": [{
+			"0": "Bonjour !",
+			"1": "Salut !"
+		}]
+	}],
+	"1":[{
+		"say-hello": [{
+			"0": "Bonjour !",
+			"1": "Salut !"
+		}]
+	}],
+	"2":[{
+		"say-hello": [{
+			"0": "Bonjour !",
+			"1": "Salut !"
+		}]
+	}],
+	"3":[{
+		"say-hello": [{
+			"0": "Bonjour !",
+			"1": "Salut !"
+		}]
+	}],
+	"4":[{
+		"say-hello": [{
+			"0": "Bonjour !",
+			"1": "Salut !"
+		}]
+	}]
+}
