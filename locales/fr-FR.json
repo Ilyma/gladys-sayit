@@ -1,52 +1,27 @@
 {
-	"Joyful":{
-		"say_hello": {
-			"0": "Bienvenue dans votre maison !",
-			"1": "Bon retour icite !"
-		},
-		"say_goodbye": {
-			"0": "Bonne journée, je fait ce que vous m'avez demandé",
-			"1": "By là !",
-			"2": "À tantot !"
+	"joyful":{
+		"custom-name": {
+			"0": "Custom sentence"
 		}
 	},
-	"Irritated":{
-		"say_hello": {
-			"0": "Ah, vous voilà !",
-			"1": "Bonjour! Oui je suis toujours là."
-		},
-		"say_goodbye": {
-			"0": "Vous partez? Merci de prévenir.",
-			"1": "Et ça repart."
+	"irritated":{
+		"custom-name": {
+			"0": "Custom sentence"
 		}
 	},
-	"Bored":{
-		"say_hello": {
-			"0": "Ah, c'est vous !",
-			"1": "Euh... Bonjour ?"
-		},
-		"say_goodbye": {
-			"0": ""
+	"bored": {
+		"custom-name": {
+			"0": "Custom sentence"
 		}
 	},
-	"Indifferent":{
-		"say_hello": {
-			"0": "Bonjour.",
-			"1": "Allo."
-		},
-		"say_goodbye": {
-			"0": "Aurevoir."
+	"indifferent":{
+		"custom-name": {
+			"0": "Custom sentence"
 		}
 	},
-	"Sarcastic":{
-		"say_hello": {
-			"0": "Bonjour ! Mais allez-y, donnez-vous la peine d'entrer.",
-			"1": "Salut ! Oui, je suis encore là.",
-			"2": "Hey! on se connait non ?"
-		},
-		"say_goodbye": {
-			"0": "Pas de soucis, je reste là de toute façon.",
-			"1": "pas de soucis, je bouge pas de là."
+	"sarcastic": {
+		"custom-name": {
+			"0": "Custom sentence"
 		}
 	}
 }

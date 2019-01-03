@@ -15,6 +15,8 @@ module.exports = function(sails) {
 
 	return {
 		install : require('./lib/install.js'),
-		sayHello : require('./lib/sayit.hello.js')
+		change : require('./lib/change-emotion.js'),
+		get : require('./lib/get-emotion.js'),
+		sayIt : require('./lib/sayit.js')
 	};
 };
