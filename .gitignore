@@ -60,5 +60,5 @@ typings/
 # next.js build output
 .next
 
-locales/fr_FR.json
-locales/en_EN.json
+locales/fr-FR.json
+locales/en-EN.json
