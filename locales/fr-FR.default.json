@@ -71,16 +71,19 @@
 		},
 		"doorbells": {
 			"0": "C'est a moi d'ouvrir ?",
-			"1": "On peux pas rester tranquil pour une fois."
+			"1": "On peux pas rester tranquil pour une fois.",
+			"2": "S'il appuis encore, je ne répond plus de moi."
 		}
 	},
 	"bored":{
 		"back-at-home": {
 			"0": "Ah, c'est vous !",
-			"1": "Euh... Bonjour ?"
+			"1": "Euh... Bonjour ?",
+			"2": "Salut, Qu'est-ce que vous faite ?"
 		},
 		"left-home": {
-			"0": ""
+			"0": "Aurevoir",
+			"1": "A un de ces jours."
 		},
 		"wake-up": {
 			"0": "Bonne matin."
@@ -96,10 +99,11 @@
 		},
 		"cinema": {
 			"0": "Bon film.",
-			"1": "un peu de pop-corn avec ceci."
+			"1": "Soirée diapo."
 		},
 		"romantic": {
-			"0": "Un peu de douceur."
+			"0": "Un peu de douceur.",
+			"1": "Je vais vous laisser seuls."
 		},
 		"doorbells": {
 			"0": "Quelqu'un à sonné.",
@@ -165,7 +169,8 @@
 			"2": "John Mc lain arrive."
 		},
 		"romantic": {
-			"0": "ça va être chaud."
+			"0": "ça va être chaud.",
+			"1": "On enfile des dominos ?"
 		},
 		"doorbells": {
 			"0": "j'y vais ! non, je rigole, je peux pas !"
