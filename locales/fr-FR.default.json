@@ -16,20 +16,25 @@
 			"0": "Bonne nuit."
 		},
 		"oppen-the-light": {
-			"0": "Que la lumière soit."
+			"0": "Que la lumière soit.",
+			"1": "Et la lumière fut.",
+			"2": "Loumosse !"
 		},
 		"close-the-light": {
 			"0": "Et l'obscurité arriva."
 		},
 		"cinema": {
 			"0": "Bon film.",
-			"1": "un peu de pop-corn avec ceci."
+			"1": "un peu de pop-corn avec ceci.",
+			"2": "Je prépare tous ceci.",
+			"3": "Vous allez être comme des coq en pates."
 		},
 		"romantic": {
 			"0": "Un peu de douceur."
 		},
 		"doorbells": {
-			"0": "Quelqu'un à sonné."
+			"0": "Quelqu'un à sonné.",
+			"1": "Nous avons de la visite."
 		}
 	},
 	"irritated":{
@@ -39,29 +44,34 @@
 		},
 		"left-home": {
 			"0": "Vous partez? Merci de prévenir.",
-			"1": "Et ça repart."
+			"1": "Et ça repart. A croire que je suis la pour la déco.",
+			"2": "A la revoyure"
 		},
 		"wake-up": {
-			"0": "Bonne matin, j'espère que tu as bien dormis."
+			"0": "Enfin debout.",
+			"1": "Ça fait réver la vie d'humain."
 		},
 		"going-to-sleep": {
-			"0": "Bonne nuit."
+			"0": "Bon bah, si tous le monde va se coucher, je me met en veille."
 		},
 		"oppen-the-light": {
-			"0": "Que la lumière soit."
+			"0": "Puisque je n'ai pas le choix.",
+			"1": "C'est toujours a moi de le faire."
 		},
 		"close-the-light": {
-			"0": "Et l'obscurité arriva."
+			"0": "il va faire tous noir.",
+			"1": "Le boutton était trop loin ?"
 		},
 		"cinema": {
-			"0": "Bon film.",
-			"1": "un peu de pop-corn avec ceci."
+			"0": "Okay, bah je prépare tous pour 2h de silence.",
+			"1": "ça sens la soirée a rien faire encore."
 		},
 		"romantic": {
-			"0": "Un peu de douceur."
+			"0": "Je veux pas voir ça."
 		},
 		"doorbells": {
-			"0": "Quelqu'un à sonné."
+			"0": "C'est a moi d'ouvrir ?",
+			"1": "On peux pas rester tranquil pour une fois."
 		}
 	},
 	"bored":{
@@ -73,7 +83,7 @@
 			"0": ""
 		},
 		"wake-up": {
-			"0": "Bonne matin, j'espère que tu as bien dormis."
+			"0": "Bonne matin."
 		},
 		"going-to-sleep": {
 			"0": "Bonne nuit."
@@ -92,7 +102,8 @@
 			"0": "Un peu de douceur."
 		},
 		"doorbells": {
-			"0": "Quelqu'un à sonné."
+			"0": "Quelqu'un à sonné.",
+			"1": "Il ne me manque plus que les jambes."
 		}
 	},
 	"indifferent":{
@@ -101,29 +112,29 @@
 			"1": "Allo."
 		},
 		"left-home": {
-			"0": "Aurevoir."
+			"0": "Aurevoir.",
+			"1": "Salut."
 		},
 		"wake-up": {
-			"0": "Bonne matin, j'espère que tu as bien dormis."
+			"0": "Bonne matin."
 		},
 		"going-to-sleep": {
 			"0": "Bonne nuit."
 		},
 		"oppen-the-light": {
-			"0": "Que la lumière soit."
+			"0": "Lumière allumée."
 		},
 		"close-the-light": {
-			"0": "Et l'obscurité arriva."
+			"0": "Lumière éteinte."
 		},
 		"cinema": {
-			"0": "Bon film.",
-			"1": "un peu de pop-corn avec ceci."
+			"0": "Mode cinéma."
 		},
 		"romantic": {
-			"0": "Un peu de douceur."
+			"0": "Okay."
 		},
 		"doorbells": {
-			"0": "Quelqu'un à sonné."
+			"0": "Quelqu'un sonne."
 		}
 	},
 	"sarcastic":{
@@ -137,7 +148,7 @@
 			"1": "pas de soucis, je bouge pas de là."
 		},
 		"wake-up": {
-			"0": "Bonne matin, j'espère que tu as bien dormis."
+			"0": "Allo! bien dormis ?"
 		},
 		"going-to-sleep": {
 			"0": "Bonne nuit."
@@ -149,14 +160,15 @@
 			"0": "Et l'obscurité arriva."
 		},
 		"cinema": {
-			"0": "Bon film.",
-			"1": "un peu de pop-corn avec ceci."
+			"0": "c'est quoi le film ?",
+			"1": "Je vous fait du pop corn ?",
+			"2": "John Mc lain arrive."
 		},
 		"romantic": {
-			"0": "Un peu de douceur."
+			"0": "ça va être chaud."
 		},
 		"doorbells": {
-			"0": "Quelqu'un à sonné."
+			"0": "j'y vais ! non, je rigole, je peux pas !"
 		}
 	},
 	"default": {
@@ -167,6 +179,7 @@
 		"0": "Je me sens actuellement %EMOTION%."
 	},
 	"change-emotion": {
-		"0": "Quelque chose à changé en moi."
+		"0": "Quelque chose à changé en moi.",
+		"1": "Je me sens différente aujourd'hui."
 	}
 }
