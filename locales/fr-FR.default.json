@@ -2,7 +2,8 @@
 	"joyful":{
 		"back-at-home": {
 			"0": "Bienvenue dans votre maison !",
-			"1": "Bon retour icite !"
+			"1": "Bon retour icite !",
+			"2": "Merci d'être revenue"
 		},
 		"left-home": {
 			"0": "Bonne journée, je fait ce que vous m'avez demandé.",
@@ -40,12 +41,14 @@
 	"irritated":{
 		"back-at-home": {
 			"0": "Ah, vous voilà !",
-			"1": "Oui je suis toujours là."
+			"1": "Oui je suis toujours là.",
+			"2": "C'est pas trop tôt !"
 		},
 		"left-home": {
 			"0": "Vous partez? Merci de prévenir.",
 			"1": "Et ça repart. A croire que je suis la pour la déco.",
-			"2": "A la revoyure"
+			"2": "A la revoyure",
+			"3": "Je sais qu'on ne s'apprécie que très peux mais, bienvenue!"
 		},
 		"wake-up": {
 			"0": "Enfin debout.",
